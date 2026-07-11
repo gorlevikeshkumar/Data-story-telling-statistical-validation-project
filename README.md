@@ -4,7 +4,7 @@
 
 This project focuses on transforming raw sales data into meaningful business insights using **Power BI** and **Python**. The analysis identifies sales trends, evaluates business performance across different regions, product categories, and customer segments, and validates business assumptions through hypothesis testing. The findings are presented using an interactive dashboard and a professional data storytelling presentation.
 
-# Objectives
+## Objectives
 
 - Analyze sales performance across different regions.
 - Compare product category sales and profits.
@@ -14,9 +14,9 @@ This project focuses on transforming raw sales data into meaningful business ins
 - Present findings through effective data storytelling.
 - Provide actionable business recommendations.
 
----
 
-# Tools & Technologies
+
+## Tools & Technologies
 
 - Power BI
 - Python
@@ -28,7 +28,7 @@ This project focuses on transforming raw sales data into meaningful business ins
 
 ---
 
-# 📂 Dataset
+## Dataset
 
 The dataset contains transactional sales information, including:
 
@@ -41,9 +41,7 @@ The dataset contains transactional sales information, including:
 - Region
 - Monthly Sales
 
----
-
-# Dashboard Features
+## Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -56,9 +54,7 @@ The Power BI dashboard includes:
 - Sales vs Business Target
 - Interactive Filters
 
----
-
-# Business Insights
+## Business Insights
 
 - East Region achieved the highest sales and profit.
 - Furniture generated the highest sales among all categories.
@@ -66,13 +62,7 @@ The Power BI dashboard includes:
 - Monthly sales varied throughout the year, indicating seasonal trends.
 - Several months exceeded the business target, while others performed below expectations.
 
----
-
-# Hypothesis Testing
-
-## Business Question
-
-Are the average monthly sales significantly different from the business target?
+## Hypothesis Testing
 
 ### Null Hypothesis (H₀)
 
@@ -90,10 +80,13 @@ There **is a significant difference** between the average monthly sales and the 
 
 - Pandas
 - SciPy
-- Matplotlib
+- Matplotlib  
 
+## Files inclided <br>
+- Data story telling & Validation.ipynb <br> 
+- data story telling.pptx
 
-# Learning Outcomes
+## Learning Outcomes
 
 - Data Analysis
 - Business Intelligence
@@ -104,6 +97,6 @@ There **is a significant difference** between the average monthly sales and the 
 - Python for Data Analytics
 - Business Decision Making
   
-# Conclusion
+## Conclusion
 
 This project demonstrates how data visualization, statistical analysis, and storytelling can be combined to convert raw business data into actionable insights. By identifying key performance trends and validating business assumptions through hypothesis testing, the project provides valuable recommendations that support informed decision-making and sustainable business growth.
